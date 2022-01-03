@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33deaa21c8c44664c832417de6cfffeb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabCubeCar: {fileID: 1223002772083156, guid: f17dfaf4c25d15e41a1cfe4f7597bcd6, type: 3}
+  - prefabSphereCar: {fileID: 1223002772083156, guid: 5f3f9363ebfa20e41aed06e2dd09549f, type: 3}
+  - prefabCylinderCar: {fileID: 1223002772083156, guid: 5e9cf6409dd16f14083e33a69be62611, type: 3}
+  - prefabCapsuleCar: {fileID: 1223002772083156, guid: 1d447f4523da07940b1d89b558315e0e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
